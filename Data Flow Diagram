@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T04:05:55.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IVW3ZqZ91UohuKBVEB6x" version="20.8.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T04:13:53.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pX6WkTe4hYF1SFynwOwQ" version="20.8.21" type="github" pages="3">
   <diagram id="O5nsh5DtnwOqXD5lVdgP" name="Context Diagram">
     <mxGraphModel dx="1499" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -607,6 +607,14 @@
             <mxPoint x="1060" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rW6KDK86v801NIVgDqYt" name="UseCase 1">
+    <mxGraphModel dx="1499" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
