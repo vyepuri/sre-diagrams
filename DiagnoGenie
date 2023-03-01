@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T23:32:03.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7i6ALEtbKCQBe5sef-vy" version="20.8.23" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-03-01T23:32:32.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pFibLoj5fay1t8LwBnK0" version="20.8.23" type="github" pages="9">
   <diagram id="O5nsh5DtnwOqXD5lVdgP" name="Context Diagram">
     <mxGraphModel dx="1066" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1171,7 +1171,7 @@
             <mxPoint x="370" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="no3_FGyiWcCX07N5l_4X-78" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#000000;fontSize=12;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="no3_FGyiWcCX07N5l_4X-71">
+        <mxCell id="no3_FGyiWcCX07N5l_4X-78" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#000000;fontSize=12;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="no3_FGyiWcCX07N5l_4X-71" target="tdFcV6FJcTsUe3VjaT0P-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="960" as="sourcePoint" />
             <mxPoint x="420" y="730" as="targetPoint" />
@@ -1203,10 +1203,10 @@
           <mxGeometry x="-30" y="950" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="no3_FGyiWcCX07N5l_4X-109" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;E. Inventory Manager&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="680" width="220" height="40" as="geometry" />
+          <mxGeometry x="-90" y="750" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdFcV6FJcTsUe3VjaT0P-1" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;F. Notification System&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="315" y="690" width="220" height="40" as="geometry" />
+          <mxGeometry x="390" y="730" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
